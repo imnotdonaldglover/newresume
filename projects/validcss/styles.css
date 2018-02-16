@@ -2,3 +2,5 @@ body {
     
  background: gray;
 }
+<style>
+  p { color: blue; font-style: italic; }
