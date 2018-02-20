@@ -12,11 +12,10 @@ h1 {
     font-size: 400% font-family: "Rammetto One", sans-serif;
 }
 p { 
-    color: blue; 
-    font-style: italic;
+    color: black; 
 }
 a {
- background: purple;
+ background: black;
 }
 a:visted {
  background: lightblue;
