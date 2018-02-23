@@ -2,14 +2,9 @@ body {
     background: gray;
     color: red;
 }
-h2, h3, h4, {
-    color: #2D8BCF;
-}
-  @import url('https://fonts.googleapis.com/css?family=Rammetto+One');
-
 h1 {
     color: rgb(165, 11, 11); 
-    font-size: 400% font-family: "Rammetto One", sans-serif;
+    font-size: 100% font-family: "Rammetto One", sans-serif;
 }
 p { 
     color: black; 
